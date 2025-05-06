@@ -1,0 +1,13 @@
+{
+  "name": "zudoku-working-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "zudoku dev"
+  },
+  "dependencies": {
+    "zudoku": "^0.42.1"
+  },
+  "devDependencies": {
+    "@openapitools/openapi-generator-cli": "^2.20.0"
+  }
+}
